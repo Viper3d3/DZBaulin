@@ -2,10 +2,20 @@
 
 Console.Write("N:");
 int N = Convert.ToInt32(Console.ReadLine());
-int chetN = N % N;
+int chetN = 1;
 
 while (chetN <= N)
 {
+
+    if(chetN == 0)
+ {
+    Console.WriteLine("Четные числа :" + chetN);
+ }
+    if (chetN % 2 == 0)
+ {
     Console.WriteLine(chetN);
-    chetN += 2;
+ }
+chetN +=1;
 }
+
+
