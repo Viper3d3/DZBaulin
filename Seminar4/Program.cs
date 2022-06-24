@@ -7,9 +7,10 @@ int chetN = 1;
 while (chetN <= N)
 {
 
-    if(chetN == 0)
+    if(chetN == 2)
  {
-    Console.WriteLine("Четные числа :" + chetN);
+    Console.WriteLine("Наши четные числа диапазона от 1 до введенного вами  " +N);
+    //Console.WriteLine("Четные числа :" + chetN);
  }
     if (chetN % 2 == 0)
  {
