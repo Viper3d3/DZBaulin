@@ -1,0 +1,15 @@
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\bin\Debug\net7.0\Seminar22.exe
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\bin\Debug\net7.0\Seminar22.deps.json
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\bin\Debug\net7.0\Seminar22.runtimeconfig.json
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\bin\Debug\net7.0\Seminar22.dll
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\bin\Debug\net7.0\Seminar22.pdb
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.csproj.AssemblyReference.cache
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.AssemblyInfoInputs.cache
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.AssemblyInfo.cs
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.csproj.CoreCompileInputs.cache
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.dll
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\refint\Seminar22.dll
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.pdb
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\Seminar22.genruntimeconfig.cache
+C:\Users\Roman Sergeevich\Desktop\С#\Seminar22\obj\Debug\net7.0\ref\Seminar22.dll
